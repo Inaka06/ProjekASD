@@ -6,13 +6,12 @@ Program menyimpan 37 mata kuliah (MK) dan 19 hubungan prasyarat dalam graf berar
 
 Setiap MK punya `ListString`, yaitu daftar berantai satu arah buatan sendiri. Satu `NodeString` menyimpan satu kode dan penunjuk ke node berikutnya. Berikut cuplikan daftar prasyarat sesuai data kelompok.
 
-```text
-MK     Prasyarat langsung
-KI     [JK]
-JK     [SO]
-SO     [AOK]
-AOK    []
-```
+| MK  | Prasyarat langsung |
+| --- | ------------------ |
+| KI  | JK                 |
+| JK  | SO                 |
+| SO  | AOK                |
+| AOK | Tidak ada          |
 
 Untuk mencari semua prasyarat KI, `semuaPrasyarat` memakai DFS dan mengikuti syarat satu per satu sampai AOK. Saat kembali dari penelusuran, program mencatat AOK, lalu SO, lalu JK. Urutan ini menunjukkan MK yang perlu diselesaikan lebih dulu. Setiap kode ditandai saat pertama dikunjungi supaya jalur yang bertemu tidak menghasilkan kode ganda.
 
