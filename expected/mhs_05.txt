@@ -1,0 +1,25 @@
+Daftar MK yang bisa diambil:
+ 1. RPL   Rekayasa Perangkat Lunak                    4 SKS
+ 2. PDAS  Pemrograman Dasar                           5 SKS
+ 3. PKK   Pengenalan Keilmuan Komputer                2 SKS
+ 4. AOK   Arsitektur dan Organisasi Komputer          2 SKS
+ 5. KAL   Kalkulus                                    2 SKS
+ 6. STP   Statistik dan Teori Peluang                 2 SKS
+ 7. AGM   Agama                                       2 SKS
+ 8. MPPI  Metodologi Penelitian dan Penulisan Ilmiah  3 SKS
+ 9. BIND  Bahasa Indonesia                            2 SKS
+10. PKL   Praktik Kerja Lapangan                      4 SKS
+
+Daftar MK yang belum bisa diambil semester depan:
+APS: belum lulus RPL
+ASD: belum lulus PDAS, PLAN
+JK: belum lulus AOK, SO
+KA: belum lulus KAL, AL
+MN: belum lulus KAL, AL
+IMK: belum lulus AOK, SO
+PAPB: belum lulus RPL, APS
+JN: belum lulus AOK, SO, JK
+KG: belum lulus AOK, SO, IMK
+JST: belum lulus KAL, AL, KA, KALJ
+SI: belum lulus KAL, AL, KA, KALJ
+SKR: belum lulus semua MK wajib (kurang 36 MK)

@@ -1,0 +1,19 @@
+Daftar MK yang bisa diambil:
+ 1. BD    Basis Data        3 SKS
+ 2. EP    Etika Profesi     2 SKS
+ 3. BING  Bahasa Inggris    2 SKS
+ 4. PANC  Pancasila         2 SKS
+ 5. KWU   Kewirausahaan     2 SKS
+ 6. KWN   Kewarganegaraan   2 SKS
+ 7. CAP   Capstone Project  3 SKS
+
+Daftar MK yang belum bisa diambil semester depan:
+PLAN: belum lulus PDAS
+SO: belum lulus AOK
+MD: belum lulus KAL
+AL: belum lulus KAL
+PAW: belum lulus AOK, SO, IMK
+DAA: belum lulus PDAS, PLAN, ASD
+KI: belum lulus AOK, SO, JK
+KALJ: belum lulus KAL, AL, KA
+SKR: belum lulus semua MK wajib (kurang 35 MK)
